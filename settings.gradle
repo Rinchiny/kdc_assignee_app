@@ -1,0 +1,3 @@
+rootProject.name = 'kdc_assignee_app'
+
+include(":frontend", ":backend")
